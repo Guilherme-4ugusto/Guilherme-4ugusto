@@ -36,11 +36,11 @@ object **GUILHERME** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Guilherme-4ugusto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&theme=radical&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Guilherme-4ugusto">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=tokyonight&line_height=27" alt="**Guilherme Augusto** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=radical&line_height=27" alt="**Guilherme Augusto** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
