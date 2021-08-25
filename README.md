@@ -50,10 +50,10 @@ object **GUILHERME** {
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
-#### Rede Sociais!
+### Rede Sociais!
 
 <p align="left">
-<a href="#" alt="Gmail" margin-right="10px">
+<a href="mailto:guilhermeabscontato@gmail.com" alt="Gmail">
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232795446837298/Component_4.png" /></a>
 
   <a href="www.linkedin.com/in/guilherme-augusto-03bab0209" alt="Linkedin">
