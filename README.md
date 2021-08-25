@@ -35,13 +35,11 @@ object **GUILHERME** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Guilherme-4ugusto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&theme=nord&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Guilherme-4ugusto">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=nord&line_height=27" alt="**Guilherme Augusto** github stats"/>
-</a>
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&layout=compact&langs_count=7&theme=nord"/>
+</div>
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
@@ -56,9 +54,10 @@ object **GUILHERME** {
 <a href="mailto:guilhermeabscontato@gmail.com" alt="Gmail">
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232795446837298/Component_4.png" /></a>
 
-  <a href="www.linkedin.com/in/guilherme-augusto-03bab0209" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232790757630002/Component_3.png" /></a>
 
+ 
   <a href="https://www.facebook.com/guilhermeaugusto.batistasantos/" alt="Facebook">
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232784499732530/Component_1.png"/></a>
 
