@@ -40,7 +40,7 @@ object **GUILHERME** {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=dracula&line_height=27" alt="**Guilherme Augusto** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
