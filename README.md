@@ -14,8 +14,9 @@ object **GUILHERME** {
 ```
 
 ## **Linguagens e Ferramentas:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<div>
+<img height="60" src="https://cdn.discordapp.com/attachments/755062376545648641/880262807541669939/Component_16.png">
+<img height="40" src="https://cdn.discordapp.com/attachments/755062376545648641/880262806224658462/Component_15.png">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -26,7 +27,7 @@ object **GUILHERME** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<div>
 
 
 ## **GitHub Estatísticas**
@@ -34,7 +35,7 @@ object **GUILHERME** {
  <div>
   <a href="https://github.com/Guilherme-4ugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&layout=compact&langs_count=7&theme=nord"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 [website]: https://codedev.ga/
