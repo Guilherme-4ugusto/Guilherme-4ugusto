@@ -53,3 +53,5 @@ object **GUILHERME** {
   <a href="https://www.instagram.com/guilherme4ugusto/" alt="Instagram">
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232789897773116/Component_2.png"/></a>
 </p>  
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
