@@ -1,6 +1,6 @@
 ## Oii Eu Sou Guilherme 🤗
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 ```kotlin
 object **GUILHERME** {
@@ -15,18 +15,18 @@ object **GUILHERME** {
 
 ## **Linguagens e Ferramentas:**  
 <div>
-<img height="60" src="https://cdn.discordapp.com/attachments/755062376545648641/880262807541669939/Component_16.png">
-<img height="40" src="https://cdn.discordapp.com/attachments/755062376545648641/880262806224658462/Component_15.png">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273105321349140/Component_16.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273102049804298/Component_15.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273079857725490/Component_14.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273079576711210/Component_13.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273078217764895/Component_11.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273078192574525/Component_12.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273076636483614/Component_10.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273076389052487/Component_9.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273065953599498/Component_8.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273065831985162/Component_7.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273064225542215/Component_6.png">
+<img src="https://cdn.discordapp.com/attachments/755062376545648641/880273059456630784/Component_5.png">
 <div>
 
 
@@ -38,23 +38,15 @@ object **GUILHERME** {
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&layout=compact&theme=nord"/>
 </div>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
 ### Rede Sociais!
 
 <p align="left">
 <a href="mailto:guilhermeabscontato@gmail.com" alt="Gmail">
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232795446837298/Component_4.png" /></a>
 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-augusto-03bab0209" target="_blank">
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232790757630002/Component_3.png" /></a>
 
- 
   <a href="https://www.facebook.com/guilhermeaugusto.batistasantos/" alt="Facebook">
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232784499732530/Component_1.png"/></a>
 
