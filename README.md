@@ -34,8 +34,8 @@ object **GUILHERME** {
 
  <div>
   <a href="https://github.com/Guilherme-4ugusto">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&layout=compact&theme=nord"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&layout=compact&theme=nord"/>
 </div>
 
 [website]: https://codedev.ga/
