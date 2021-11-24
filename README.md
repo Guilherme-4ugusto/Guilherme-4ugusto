@@ -54,4 +54,4 @@ object **GUILHERME** {
   <img src="https://cdn.discordapp.com/attachments/755062376545648641/880232789897773116/Component_2.png"/></a>
 </p>  
 
-![Snake animation](https://github.com/ELLEN2121/ELLEN2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Guilherme-4ugusto/Guilherme-4ugusto/blob/output/github-contribution-grid-snake.svg)
