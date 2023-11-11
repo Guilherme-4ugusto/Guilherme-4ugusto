@@ -29,15 +29,6 @@ object **GUILHERME** {
 <img src="https://cdn.discordapp.com/attachments/755062376545648641/880273059456630784/Component_5.png">
 <div>
 
-
-## **GitHub Estatísticas**
-
- <div>
-  <a href="https://github.com/Guilherme-4ugusto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-4ugusto&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-4ugusto&layout=compact&theme=nord"/>
-</div>
-
 ### Rede Sociais!
 
 <p align="left">
